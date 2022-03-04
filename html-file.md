@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>
-     Good Wood Skate Shop
-    </title>
+   
+     
+   
    
   </head>
   <body>
+    Good Wood Skate Shop
     <nav id="nav-bar">
       <ul>
         <li>Home</li>
@@ -19,7 +20,7 @@
         <div class="row">
           <div class="column"></div>
           <div class="column"></div>
-          
+          </div>
           
         
       </div>
